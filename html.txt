@@ -59,7 +59,7 @@
 <body>
 
     <header>
-        <h1>Tienda de Ropa</h1>
+        <h1>pagina principal</h1>
     </header>
 
     <div class="container">
